@@ -48,19 +48,29 @@ Use this method if you downloaded the `.mrpack` version from GitHub Releases or 
 6. Launch **Cobblemon Unyielding**.
 7. Join the server at `play.cobblemonunyielding.win`.
 
-## Installation — CurseForge
+## Installation — CurseForge (Manual ZIP)
 
-Use this method once the official **Cobblemon Unyielding** project is available on CurseForge.
+**The public CurseForge project is still awaiting approval.** You can still install and play Cobblemon Unyielding through the CurseForge App using the downloadable ZIP from the GitHub Releases page.
+
+Download:
+
+`Cobblemon Unyielding (B)-1.0.6.zip`
+
+Then:
 
 1. Open the **CurseForge App**.
 2. Select **Minecraft**.
-3. Search for **Cobblemon Unyielding**.
-4. Open the official project and click **Install**.
-5. Wait for CurseForge to finish downloading and installing the modpack.
-6. Launch the pack through CurseForge.
-7. Join the server at `play.cobblemonunyielding.win`.
+3. Choose **Import** / **Import Profile**.
+4. When the file picker opens, change the file-type filter to **All Files** if the ZIP does not appear.
+5. **Do not leave the picker on the CurseForge-only file filter** if it hides the download.
+6. Select `Cobblemon Unyielding (B)-1.0.6.zip`.
+7. Let CurseForge import and install the modpack.
+8. Launch **Cobblemon Unyielding**.
+9. Join the server at `play.cobblemonunyielding.win`.
 
-> **Important:** The GitHub `.mrpack` download is intended for the **Modrinth App**. For CurseForge, install the official CurseForge version when it is published rather than trying to import the `.mrpack` directly.
+> This ZIP is the **manual CurseForge installation option** while the official CurseForge project is still waiting for approval. Once the public project is approved, players will also be able to install it normally from the CurseForge project page.
+
+> The `.mrpack` file is for **Modrinth**. The `.zip` file is for the **CurseForge manual import** method.
 
 ## Testing Notice
 
